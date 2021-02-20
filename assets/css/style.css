@@ -123,20 +123,11 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
-
+/*Intro Syles Start */
 .intro {
     text-align: center;
 }
-
-.intro h2 {
-    font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
-    padding: 0100px 20 px 100 px;
-    border-bottom: 3px solid;
-    border-color: #fce138;
-    display: inline-block;
-}
+/*Intro Syles Ends */
 
 .intro p {
     line-height: 1.7;
@@ -145,3 +136,51 @@ section {
     font-size: 20px;
     margin: 0 auto;
 }
+/*Steps Syles Start */
+.steps {
+    text-align: center;
+    background: #fce138;
+}
+/*Steps Syles Ends */
+
+.section-title {
+    font-size: 55px;
+    color: #024e76;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
+
+.primary-border {
+    border-color: :#fce138;
+}
+
+.secondary-border {
+    border-color: #39a6b2
+}
+
+.steps div {
+    margin-bottom: 80x;
+}
+
+.steps img {
+    width: 15px;
+    margin: 10px 0;
+}
+
+.steps h3 {
+    color: #024e76;
+    font-size: 46px;
+    margin-top: 10px;
+}
+
+.steps p{
+    color: #39a6b2;
+    font-size: 23px;
+}
+
+.steps span {
+    font-size: 38px;
+}
+
