@@ -39,7 +39,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: 0 30px;
+    padding: 10px 15px;
     font-weight: lighter;
     font-size: 22px;
 }
@@ -78,6 +78,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    align-items: flex-start;
 }
 /* Hero Style End */
 
@@ -165,7 +166,7 @@ section {
 }
 
 .section-title {
-    font-size: 55px;
+    font-size: 48px;
     color: #024e76;
     margin-bottom: 35px;
     padding: 0 100px 20px 100px;
